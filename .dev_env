@@ -1,0 +1,4 @@
+DB_USER = "Aseguramiento"
+DB_PASS = "Aseguramiento"
+DB_HOST = "localhost"
+DB_PORT = "3306"
